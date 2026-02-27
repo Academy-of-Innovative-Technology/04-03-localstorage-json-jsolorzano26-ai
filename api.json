@@ -1,0 +1,94 @@
+{
+	"response": [
+		{
+			"name": {
+				"firstName": "James",
+				"lastName": "Howlett",
+				"alias": "Wolverine"
+			},
+			"profile": {
+				"gender": "Male",
+				"eyes": "brown",
+				"hair": "black",
+				"height": "5'3"
+			},
+			"powers": ["Heightened Senses", "Regeneration", "Superhuman Strength", "Superhuman Durability", "Superhuman Speed", "Superhuman Reflexes"],
+			"image": "https://trendingpopculture.com/wp-content/uploads/2024/12/Ultimate-Universe-One-Year-In-1-Ivan-Tao-600x897.webp",
+			"affiliation": [
+				"X-MEN", "X-Factor", "Brotherhood", "Avengers"
+			]
+		},
+		{
+			"name": {
+				"firstName": "Jean",
+				"lastName": "Grey-Summers",
+				"alias": "Phoenix"
+			},
+			"profile": {
+				"gender": "Female",
+				"eyes": "Green",
+				"hair": "Red",
+				"height": "5'7"
+			},
+			"image": "https://m.media-amazon.com/images/I/81OF3Rir5JL._AC_UF894,1000_QL80_.jpg",
+			"powers": ["Telepathy", "Telekinesis", "Energy Manipulation", "Energy Blasts", "Force Field", "Illusion-Casting", "Astral Projection", "Flight"],
+			"affiliation": [
+				"X-MEN", "Phoenix Force", "Brotherhood"
+			]
+		}, 
+		{
+			"name": {
+				"firstName": "Anna",
+				"lastName": "Marie LeBeau",
+				"alias": "Rogue"
+			},
+			"profile": {
+				"gender": "Female",
+				"eyes": "Green",
+				"hair": "Brown (White Streak)",
+				"height": "5'8"
+			},
+			"image": "https://i.pinimg.com/564x/d2/64/79/d26479262f6aa69d0c63d31ed82d2724.jpg",
+			"powers": ["Power Mimicry", "Nigh Invulnerability", "Flight", "Superhuman Strength", "Superhuman Reflexes"],
+			"affiliation": [
+				"X-MEN", "Avengers", "Phoenix Force", "Brotherhood"
+			]
+		},
+		{
+			"name": {
+				"firstName": "Ororo",
+				"lastName": "Munroe",
+				"alias": "Storm"
+			},
+			"profile": {
+				"gender": "Female",
+				"eyes": "Blue / White",
+				"hair": "White / Silver",
+				"height": "5'11"
+			},
+			"powers": ["Atmokinetic Combat", "Psionics", "Control of Elements", "Flight", "Heighted Senses"],
+			"image": "https://comicvine.gamespot.com/a/uploads/original/8/85507/2065788-515678_xtremexmen36_super.jpg",
+			"affiliation": [
+				"X-MEN", "Fantastic Four", "Morlocks", "Quiet Council of Krakoa"
+			]
+		},
+		{
+			"name": {
+				"firstName": "Remy",
+				"lastName": "Etienne LeBeau",
+				"alias": "Gambit"
+			},
+			"profile": {
+				"gender": "Male",
+				"eyes": "Black / Red",
+				"hair": "Brown",
+				"height": "6'2"
+			},
+			"powers": ["Energy Manipulation", "Hand-to-Hand", "Superhuman Agility"],
+			"image": "https://unknowncomicbooks.com/cdn/shop/products/GAMBIT2022003_DC41.jpg",
+			"affiliation": [
+				"X-MEN", "Excalibur", "Brotherhood", "Angel of Death"
+			]
+		}
+	]
+}
